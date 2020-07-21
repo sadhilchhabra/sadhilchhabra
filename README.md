@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 # My Stats
 
 ![](https://github-readme-stats.anuraghazra1.vercel.app/api?username=sadhilchhabra&show_icons=true&theme=tokyonight&line_height=27&alt="Sadhil's_github_stats")
-![](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sad&theme=tokyonight&hide_langs_below=1)
+![](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sadhilchhabra&theme=tokyonight&hide_langs_below=1)
