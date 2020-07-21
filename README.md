@@ -12,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+# Follow me on:
+
+[![GitHub followers](https://img.shields.io/github/followers/sadhilchhabra?label=Follow&style=plastic&logo=github&logoColor=white&color=brightGreen)](https://www.github.com/sadhilchhabra/)
