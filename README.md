@@ -14,8 +14,12 @@ Here are some ideas to get you started:
 
 # Follow me on:
 
-[![GitHub followers](https://img.shields.io/github/followers/sadhilchhabra?label=Follow&style=plastic&logo=github&logoColor=white&color=brightGreen)](https://www.github.com/sadhilchhabra/)  [![Linkedin](https://img.shields.io/badge/Linkedin-Sadhil_Chhabra-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sadhil-chhabra-b32482193/)](https://www.linkedin.com/in/sadhil-chhabra-b32482193/) [![Twitter](https://img.shields.io/twitter/follow/chhabra_sadhil?label=Follow&logo=twitter&style=plastic)](https://twitter.com/chhabra_sadhil) ![Gmail](https://img.shields.io/badge/Gmail-sadhil.chhabra@gmail.com-red?style=plastic&logo=Gmail&logoColor=white)
+[![GitHub followers](https://img.shields.io/github/followers/sadhilchhabra?label=Follow&style=plastic&logo=github&logoColor=white&color=brightGreen)](https://www.github.com/sadhilchhabra/)  
+[![Linkedin](https://img.shields.io/badge/Linkedin-Sadhil_Chhabra-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sadhil-chhabra-b32482193/)](https://www.linkedin.com/in/sadhil-chhabra-b32482193/) 
+[![Twitter](https://img.shields.io/twitter/follow/chhabra_sadhil?label=Follow&logo=twitter&style=plastic)](https://twitter.com/chhabra_sadhil)
+![Gmail](https://img.shields.io/badge/Gmail-sadhil.chhabra@gmail.com-red?style=plastic&logo=Gmail&logoColor=white)
 
 # My Stats
 
-![Sadhil's github stats](https://github-readme-stats.vercel.app/api?username=sadhilchhabra&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![](https://github-readme-stats.anuraghazra1.vercel.app/api?username=sadhilchhabra&show_icons=true&theme=tokyonight&line_height=27&alt="Sadhil's_github_stats")
+![](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sad&theme=tokyonight&hide_langs_below=1)
