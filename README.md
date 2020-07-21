@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 
 # Follow me on:
 
-[![GitHub followers](https://img.shields.io/github/followers/sadhilchhabra?label=Follow&style=plastic&logo=github&logoColor=white&color=brightGreen)](https://www.github.com/sadhilchhabra/)       [![Linkedin](https://img.shields.io/badge/Linkedin-Sadhil_Chhabra-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sadhil-chhabra-b32482193/)](https://www.linkedin.com/in/sadhil-chhabra-b32482193/)
+[![GitHub followers](https://img.shields.io/github/followers/sadhilchhabra?label=Follow&style=plastic&logo=github&logoColor=white&color=brightGreen)](https://www.github.com/sadhilchhabra/)  [![Linkedin](https://img.shields.io/badge/Linkedin-Sadhil_Chhabra-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sadhil-chhabra-b32482193/)](https://www.linkedin.com/in/sadhil-chhabra-b32482193/)
