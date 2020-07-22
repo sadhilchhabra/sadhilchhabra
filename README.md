@@ -1,3 +1,6 @@
+<img src="https://github.com/sadhilchhabra/sadhilchhabra/blob/master/Untitled_1.jpg" alt="Hero image">
+
+
 # Welcome
 I'm Sadhil Chhabra, sophomore at Bennett University. I also have experience with various programming languages C,C++, JAVA and Python. Video Editting and Content Writer are some of the areas I have gathered foundational knowledge.
 
