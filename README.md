@@ -1,8 +1,10 @@
-<img src="https://github.com/sadhilchhabra/sadhilchhabra/blob/master/Untitled_1.jpg" alt="Hero image">
+<img src="https://github.com/sadhilchhabra/sadhilchhabra/blob/master/Untitled_1.png" alt="Hero image">
 
 
 # Welcome
 I'm Sadhil Chhabra, sophomore at Bennett University. I also have experience with various programming languages C,C++, JAVA and Python. Video Editting and Content Writer are some of the areas I have gathered foundational knowledge.
+
+<img src="https://github.com/sadhilchhabra/sadhilchhabra/blob/master/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966.gif" alt="Coding">
 
 Here are some ideas to get you started:
 
