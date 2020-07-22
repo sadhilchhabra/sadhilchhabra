@@ -19,6 +19,13 @@ Here are some ideas to get you started:
 [![Twitter](https://img.shields.io/twitter/follow/chhabra_sadhil?label=Follow&logo=twitter&style=plastic)](https://twitter.com/chhabra_sadhil)
 ![Gmail](https://img.shields.io/badge/Gmail-sadhil.chhabra@gmail.com-red?style=plastic&logo=Gmail&logoColor=white)
 
+# Languages I know: 
+
+![](https://img.shields.io/badge/Language-Java-green)
+![](https://img.shields.io/badge/Language-Python-blue)
+![](https://img.shields.io/badge/Language-C++-yellow)
+![](https://img.shields.io/badge/Language-C-yellow)
+
 # My Stats
 
 ![](https://github-readme-stats.anuraghazra1.vercel.app/api?username=sadhilchhabra&show_icons=true&theme=tokyonight&line_height=27&alt="Sadhil's_github_stats")
