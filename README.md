@@ -22,6 +22,11 @@ I'm Sadhil Chhabra, sophomore at Bennett University. I also have experience with
 ![](https://img.shields.io/badge/Language-C++-yellow)
 ![](https://img.shields.io/badge/Language-C-yellow)
 
+# My publications
+
+Quick Sort Algorithm
+Binary Search Algorithm
+
 # My Stats
 
 ![](https://github-readme-stats.anuraghazra1.vercel.app/api?username=sadhilchhabra&show_icons=true&theme=tokyonight&line_height=27&alt="Sadhil's_github_stats")
