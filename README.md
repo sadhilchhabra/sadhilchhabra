@@ -23,10 +23,8 @@ I'm Sadhil Chhabra, sophomore at Bennett University. I also have experience with
 ![](https://img.shields.io/badge/Language-C-yellow)
 
 # My Publications
-  ### Binary Search Algorithm -- 24 June 2021
-  https://sadhil-chhabra.medium.com/binary-search-algorithm-712eac3846f5
-  ### Quick Sort Algorithm -- 22 March 2021
-  https://sadhil-chhabra.medium.com/quick-sort-algorithm-9db6a83b0e27
+  ### [Binary Search Algorithm -- 24 June 2021](https://sadhil-chhabra.medium.com/binary-search-algorithm-712eac3846f5)
+  ### [Quick Sort Algorithm -- 22 March 2021](https://sadhil-chhabra.medium.com/quick-sort-algorithm-9db6a83b0e27)
       
 # My Stats
 
