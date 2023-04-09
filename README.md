@@ -12,7 +12,7 @@ I'm Sadhil Chhabra, student at Bennett University. I also have experience with v
 
 [![GitHub followers](https://img.shields.io/github/followers/sadhilchhabra?label=Follow&style=plastic&logo=github&logoColor=white&color=brightGreen)](https://www.github.com/sadhilchhabra/)  
 [![Linkedin](https://img.shields.io/badge/Linkedin-Sadhil_Chhabra-blue?style=plastic-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sadhil-chhabra-b32482193/) 
-[![Twitter](https://img.shields.io/twitter/follow/chhabra_sadhil?label=Follow&logo=twitter&style=plastic)](https://twitter.com/chhabra_sadhil)
+<!-- [![Twitter](https://img.shields.io/twitter/follow/chhabra_sadhil?label=Follow&logo=twitter&style=plastic)](https://twitter.com/chhabra_sadhil) -->
 ![Gmail](https://img.shields.io/badge/Gmail-sadhil.chhabra@gmail.com-red?style=plastic&logo=Gmail&logoColor=white)
 
 # Languages I know: 
