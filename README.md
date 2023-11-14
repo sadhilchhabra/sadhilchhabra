@@ -4,7 +4,7 @@
 
 
 # Welcome
-I'm Sadhil Chhabra, student at Bennett University. I also have experience with various programming languages like C++ and Python. Video Editting and Content Writer are some of the areas I have gathered foundational knowledge.
+I'm Sadhil Chhabra. I have experience with various programming languages like Python and C++. Video Editting and Content Writer are some of the areas I have gathered foundational knowledge.
 
 <img src="https://github.com/sadhilchhabra/sadhilchhabra/blob/master/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966.gif" alt="Coding">
 
