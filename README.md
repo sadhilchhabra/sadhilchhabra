@@ -12,7 +12,7 @@ I'm Sadhil Chhabra. I have experience with various programming languages like Py
 
 [![GitHub followers](https://img.shields.io/github/followers/sadhilchhabra?label=Follow&style=plastic&logo=github&logoColor=white&color=brightGreen)](https://www.github.com/sadhilchhabra/)  
 [![Linkedin](https://img.shields.io/badge/Linkedin-Sadhil_Chhabra-blue?style=plastic-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sadhil-chhabra-b32482193/) 
-![Gmail](https://img.shields.io/badge/Gmail-sadhil.chhabra@gmail.com-red?style=plastic&logo=Gmail&logoColor=white)
+<!-- ![Gmail](https://img.shields.io/badge/Gmail-sadhil.chhabra@gmail.com-red?style=plastic&logo=Gmail&logoColor=white) -->
 <!-- [![Twitter](https://img.shields.io/twitter/follow/chhabra_sadhil?label=Follow&logo=twitter&style=plastic)](https://twitter.com/chhabra_sadhil) -->
 
 # Languages I know: 
